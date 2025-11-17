@@ -12,6 +12,14 @@ body {
   padding: 2rem;
 }
 
+p {
+  text-align: justify;
+}
+
+li {
+  text-align: justify;
+}
+
 header {
   background: #0b74de;
   color: #fff;
