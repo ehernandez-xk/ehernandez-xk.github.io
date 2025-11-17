@@ -20,6 +20,10 @@ li {
   text-align: justify;
 }
 
+.subtitle {
+  text-align: center;
+}
+
 header {
   background: #0b74de;
   color: #fff;
